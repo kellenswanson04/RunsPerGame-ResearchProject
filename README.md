@@ -12,7 +12,7 @@ Creator: Kellen Swanson
 
 1. Which offensive traits (AVG, SLG, HR, SB, EBH, walks, strikeouts, count/zone control) actually go with runs at the NCAA level?
 2. Which teams have scored at an elite rate over the last four seasons, and do they still look elite after park adjustment?
-3. How do those clubs differ from a typical D1 team-season?
+3. How do those teams differ from a typical D1 team-season?
 
 ---
 
@@ -20,8 +20,7 @@ Creator: Kellen Swanson
 
 | File | Role |
 | --- | --- |
-| `Master232425.csv` | TrackMan pitch-level data, 2023–2025 (~6.1 GB) |
-| `Master2026.csv` | TrackMan pitch-level data, 2026 (~2.0 GB) |
+| `Master23242526.csv` | TrackMan pitch-level data, 2023–2026 |
 | `trackman_d1_cube_index.csv` | 308 D1 schools (TrackMan code → school name) |
 | `parkfactor.csv` | Stadium park factors; **only `ParkFactor_100` is used** |
 
